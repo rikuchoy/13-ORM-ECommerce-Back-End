@@ -26,10 +26,11 @@ This project is replicates the backend of an E-Commerce website. The user can vi
 1. Input your mysql root password into "connection.js" file in the "db" folder
 2. Use the command "mysql -u root -p" to log into mysql
 3. Use the command "source db/schema.sql" to create the database
-4. Use the command "source db/seeds.sql" to seed the database
-5. Start the application by using the command "node index.js"
+4. Use the command "npm run seed" to seed the database
+5. Use the command "npm run start" to start the server
+6. Follow the walkthrough video
 
-[Walkthrough Video](https://drive.google.com/file/d/1P002jjq5e9bzS0wURmv59wPr25vSCGBn/view)
+[Walkthrough Video](https://drive.google.com/file/d/1eYue79HGRixYEBtDenT2y_88FV-Np6hm/view)
 
 ## Contributing
 
